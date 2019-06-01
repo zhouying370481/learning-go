@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"beeproject/controllers"
+	"github.com/pathbox/learning-go/src/beeproject/routers"
 	"github.com/astaxie/beego"
 )
 

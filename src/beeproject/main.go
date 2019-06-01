@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "beeproject/routers"
 	"github.com/astaxie/beego"
+	_ "github.com/pathbox/learning-go/src/beeproject/routers"
 )
 
 func main() {
